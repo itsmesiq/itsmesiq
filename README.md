@@ -1,4 +1,3 @@
-<img align="right" height="598em" src="https://raw.githubusercontent.com/gist/itsmesiq/a8d3314701de0860a8820e0b067f3174/raw/f5f0f85a3c85d78c638b887243ed6c39241f29ab/githubcard.svg">
 <h1 align="left">Its me Siq! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 🔥 Senior UX|UI Designer
