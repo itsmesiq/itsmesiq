@@ -1,4 +1,5 @@
 <h1 align="left">Hey, I'm Siq! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+
 Designer by experience. Developer by passion.
 
 After years designing digital products, I'm now focusing on Front-end Development, where I can combine UX thinking with clean, scalable code.
