@@ -49,9 +49,9 @@ For me, this isn't a career change—it's coming back to the path I always wante
 
 | Project | Description |
 |---------|-------------|
+| [🌐 Portfolio](https://portfolio-itsmesiq.vercel.app) | My personal portfolio showcasing projects and experience. |
 | [🏋️ Bootcamp Treinos API](https://github.com/itsmesiq/bootcamp-treinos-api) | REST API built with Node.js, Express, Prisma and PostgreSQL. |
 | [💻 Bootcamp Treinos Frontend](https://github.com/itsmesiq/bootcamp-treinos-frontend) | Responsive web application built with Next.js and Tailwind CSS. |
-| [🌐 Portfolio](https://portfolio-itsmesiq.vercel.app) | My personal portfolio showcasing projects and experience. |
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
