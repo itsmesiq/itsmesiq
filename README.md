@@ -4,7 +4,6 @@ Designer by experience. Developer by passion.
 
 After years designing digital products, I'm now focusing on Front-end Development, where I can combine UX thinking with clean, scalable code.
 
-- 🎨 Senior UX/UI Designer
 - 💻 Front-end Developer
 - ⚛️ React • Next.js • TypeScript
 - 🚀 UX-driven interfaces
@@ -49,6 +48,7 @@ For me, this isn't a career change—it's coming back to the path I always wante
 
 | Project | Description |
 |---------|-------------|
+| [⚡Template Preview](https://github.com/itsmesiq/template-preview) | Local development environment for HTML email templates powered by Scriban. |
 | [🌐 Portfolio](https://portfolio-itsmesiq.vercel.app) | My personal portfolio showcasing projects and experience. |
 | [🏋️ Bootcamp Treinos API](https://github.com/itsmesiq/bootcamp-treinos-api) | REST API built with Node.js, Express, Prisma and PostgreSQL. |
 | [💻 Bootcamp Treinos Frontend](https://github.com/itsmesiq/bootcamp-treinos-frontend) | Responsive web application built with Next.js and Tailwind CSS. |
