@@ -56,5 +56,8 @@ For me, this isn't a career change—it's coming back to the path I always wante
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com?user=itsmesiq&theme=tokyonight&hide_border=true"/>
+  
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=itsmesiq&hide=stars&show_icons=true&theme=nightowl)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=itsmesiq&layout=compact&theme=nightowl)](https://github.com/stats-organization/github-stats-extended)
+
 </p>
