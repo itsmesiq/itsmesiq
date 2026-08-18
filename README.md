@@ -21,8 +21,6 @@ My professional experience includes developing and maintaining interfaces for pl
 
 Currently, I'm studying Full Stack Development and expanding my knowledge of backend technologies, while building projects that combine frontend development, APIs, databases and UX/UI.
 
-I enjoy understanding not only how interfaces look, but also how they work — turning ideas and designs into functional, responsive and maintainable products.
-
 <h2> 🛠 &nbsp;Tech Stack </h2>
 <h3>💻 &nbsp;Frontend</h3>
 
