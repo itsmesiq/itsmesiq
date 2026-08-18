@@ -1,8 +1,8 @@
 <h1 align="left">Hey, I'm Siq! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-Designer by experience. Developer by passion.
+Frontend Developer with a background in UX/UI Design.
 
-After years designing digital products, I'm now focusing on Front-end Development, where I can combine UX thinking with clean, scalable code.
+I build responsive web interfaces with a focus on clean code, usability and real-world e-commerce experiences.
 
 - 💻 Front-end Developer
 - ⚛️ React • Next.js • TypeScript
@@ -15,18 +15,16 @@ After years designing digital products, I'm now focusing on Front-end Developmen
 
 <h2> 👨‍💻 &nbsp;About Me </h2>
 
-My passion for technology started long before my career. As a kid, I dreamed of either working in cybercrime investigations or becoming a game developer. After finishing high school, I was accepted into Computer Engineering at the Federal University of Paraíba (UFPB), taking my first steps toward that dream.
+I'm a Frontend Developer with a background in UX/UI Design and professional experience working with e-commerce interfaces.
 
-Unfortunately, life had other plans. After moving to another state to attend university, an extended strike, combined with personal and financial circumstances, forced me to put my studies on hold and return home. Looking for new opportunities, I found my way into UX/UI Design, where I built my career designing digital products and e-commerce experiences.
+My professional experience includes developing and maintaining interfaces for platforms such as Tray and Wake, working mainly with HTML, CSS, Tailwind CSS, JavaScript, jQuery and template languages. My experience with React, Next.js and TypeScript comes primarily from personal projects and ongoing development work.
 
-Even while working as a designer, my interest in development never disappeared. Collaborating closely with developers only reinforced my desire to understand how great products are built—not just how they look, but how they work.
+Currently, I'm studying Full Stack Development and expanding my knowledge of backend technologies, while building projects that combine frontend development, APIs, databases and UX/UI.
 
-Now, as I approach my 30s, I'm returning to where my passion for technology began. I'm studying Full Stack Development and building projects with React, Next.js, TypeScript and Node.js, combining years of design experience with software development to create products that are both intuitive and technically well-crafted.
-
-For me, this isn't a career change—it's coming back to the path I always wanted to follow.
+I enjoy understanding not only how interfaces look, but also how they work — turning ideas and designs into functional, responsive and maintainable products.
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
-<h3>💻 &nbsp;Front-end & UI Design</h3>
+<h3>💻 &nbsp;Frontend</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,21 +33,30 @@ For me, this isn't a career change—it's coming back to the path I always wante
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-<h3>⚙️ &nbsp;Learning Back-end & Database</h3>
+<h3>⚙️ &nbsp;Back-end & Database</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%233982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+
+<h3>🔧 &nbsp;Tools</h3>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Scalar](https://img.shields.io/badge/Scalar-%23000000.svg?style=for-the-badge&logo=scalar&logoColor=white)
 
 <h2>⭐ &nbsp;Featured Projects</h2>
 
 | Project | Description |
 |---------|-------------|
 | [⚡Template Preview](https://github.com/itsmesiq/template-preview) | Local development environment for HTML email templates powered by Scriban. |
-| [🌐 Portfolio](https://portfolio-itsmesiq.vercel.app) | My personal portfolio showcasing projects and experience. |
 | [🏋️ Bootcamp Treinos API](https://github.com/itsmesiq/bootcamp-treinos-api) | REST API built with Node.js, Express, Prisma and PostgreSQL. |
 | [💻 Bootcamp Treinos Frontend](https://github.com/itsmesiq/bootcamp-treinos-frontend) | Responsive web application built with Next.js and Tailwind CSS. |
 
