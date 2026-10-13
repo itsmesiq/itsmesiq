@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="https://github-profile-itsmesiq.vercel.app/api/widgets/profile?v=2"
+    width="100%"
+    alt="Meu perfil GitHub"
+  />
+</div>
+
 <h1 align="left">Hey, I'm Siq! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 Frontend Developer with a background in UX/UI Design.
@@ -58,11 +66,4 @@ Currently, I'm studying Full Stack Development and expanding my knowledge of bac
 | [🏋️ Bootcamp Treinos API](https://github.com/itsmesiq/bootcamp-treinos-api) | REST API built with Node.js, Express, Prisma and PostgreSQL. |
 | [💻 Bootcamp Treinos Frontend](https://github.com/itsmesiq/bootcamp-treinos-frontend) | Responsive web application built with Next.js and Tailwind CSS. |
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
 
-<p align="left">
-  
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=itsmesiq&hide=stars&show_icons=true&theme=nightowl)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=itsmesiq&layout=compact&theme=nightowl)](https://github.com/stats-organization/github-stats-extended)
-
-</p>
