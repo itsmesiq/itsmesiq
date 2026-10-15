@@ -1,11 +1,3 @@
-<div align="center">
-  <img
-    src="https://github-profile-itsmesiq.vercel.app/api/widgets/profile?v=2"
-    width="100%"
-    alt="Meu perfil GitHub"
-  />
-</div>
-
 <h1 align="left">Hey, I'm Siq! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 Frontend Developer with a background in UX/UI Design.
